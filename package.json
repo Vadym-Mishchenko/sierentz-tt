@@ -1,5 +1,6 @@
 {
   "name": "sierentz-tt",
+  "homepage": "https://vadym-mishchenko.github.io/sierentz-tt/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
