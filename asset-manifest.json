@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/sierentz-tt/static/css/main.964fdded.css",
-    "main.js": "/sierentz-tt/static/js/main.cd5b0e1a.js",
+    "main.css": "/sierentz-tt/static/css/main.32328cf3.css",
+    "main.js": "/sierentz-tt/static/js/main.9c2ac5b3.js",
+    "static/js/787.86e7d24c.chunk.js": "/sierentz-tt/static/js/787.86e7d24c.chunk.js",
     "index.html": "/sierentz-tt/index.html",
-    "main.964fdded.css.map": "/sierentz-tt/static/css/main.964fdded.css.map",
-    "main.cd5b0e1a.js.map": "/sierentz-tt/static/js/main.cd5b0e1a.js.map"
+    "main.32328cf3.css.map": "/sierentz-tt/static/css/main.32328cf3.css.map",
+    "main.9c2ac5b3.js.map": "/sierentz-tt/static/js/main.9c2ac5b3.js.map",
+    "787.86e7d24c.chunk.js.map": "/sierentz-tt/static/js/787.86e7d24c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.cd5b0e1a.js"
+    "static/css/main.32328cf3.css",
+    "static/js/main.9c2ac5b3.js"
   ]
 }
